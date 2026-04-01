@@ -63,18 +63,6 @@ You may purchase the remaining parts from the SeeedStudio Store based on the com
 
 [You can leave your information here, and we will send you the limited pre-order link in advance.](https://forms.gle/1MwdVKUqkuGu3C7L7)
 
-## Getting Your Own reBot Arm
-
-- We offer five versions of kits
-  - **Arm Body Motor kit** for the robotic arm including only motors and wiring harnesses.
-  - **Arm Body structural kit** containing only mechanical structural components. 
-  - **Arm Gripper Complete kit** Motor, wiring and structural components of Gripper. 
-  - **Complete kit** with the robotic arm plus gripper. 
-  - **Assembled Arm** Pre-assembled robotic arm.
-
-  You may purchase the remaining parts from the SeeedStudio bazaar (ETA 04.15.2026) based on the materials you already have.
-
-  You may leave your information here, and we will send you the limited pre-order link in advance.
 
 ## 🗺️ Roadmap & Status
 
