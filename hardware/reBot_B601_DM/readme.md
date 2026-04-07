@@ -106,9 +106,9 @@ The current BOM is the component list for the **reBot Arm B601 DM** robotic arm,
 ## 🛒 Purchased Parts (Standard Parts)
 
 > [!WARNING]
-> Since everyone will need to assemble and tighten the screws themselves, standard hex socket screws have been selected. After prolonged operation, the screws may loosen, which will affect the precision of the robotic arm. For this reason, you are required to purchase additional hot melt glue to perform thread locking on the screws at each joint.
+> Since this robot arm is designed for self-assembly, we have selected standard hex socket screws. However, these screws may loosen after prolonged operation, which can affect the arm’s positioning accuracy. For this reason, we recommend that you either purchase thread locking adhesive to apply to the screws, or use pre-applied thread locking screws directly.
+If you choose anti-loosening screws, we highly recommend using an electric screwdriver. Important: Always use low to medium torque settings to avoid screw stripping, which will cause irreversible damage.
 
-If you have a power drill or similar tools, you may choose to buy lock washers or thread-locking screws instead. However, **it is extremely important** that you use the lowest torque setting when using an electric screwdriver to avoid thread stripping, which will result in irreversible damage.
 
 
 | Name | Specification / Model | Quantity | Reference Price | Notes |
