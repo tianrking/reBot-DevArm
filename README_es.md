@@ -75,7 +75,7 @@ Estamos comprometidos a mantener y adaptarnos continuamente a los ecosistemas pr
 | **Referencia de pruebas de rendimiento en máquina real** | ✅ Completado | Referencia de rendimiento del brazo robótico en funcionamiento normal y extremo | [Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing_es.md) |
 | **Video de ensamblaje** | 🚧 En progreso | Pasos de ensamblaje ultra detallados y video | [Esperado: 2026.04.10] |
 | **ROS2 (Humble)** | 🚧 En progreso | Drivers principales completados, optimización de MoveIt2 en curso | [Esperado: 2026.04.10] |
-| **Python SDK** | 🚧 En progreso |  | [Esperado: 2026.04.10] |
+| **Python SDK** | Optimización continua, PR bienvenidos | Biblioteca de motores universal compatible con múltiples marcas de motores articulares | [motorbridge](https://github.com/tianrking/MotorBridge) |
 | **Integración con Pinocchio** | 🚧 En progreso | Adaptación al framework Pinocchio para cinemática directa/inversa y compensación de gravedad | [Esperado: 2026.04.10] |
 | **Simulación en Isaac Sim** | 🚧 En progreso | Importación de modelos USD y teleoperación simulada | [Esperado: 2026.04.20] |
 | **Integración con LeRobot** | 🚧 En progreso | Adaptación al framework LeRobot de Hugging Face | [Esperado: 2026.04.30] |

@@ -76,7 +76,7 @@ We are committed to continuously maintaining and adapting to mainstream robot de
 | **Reference for Real Machine Performance Testing** | ✅ Completed   | Performance Reference of Robotic Arm under Normal and Extreme Operating Conditions |[Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing.md) |
 | **Assembly Video** | 🚧 In Progress | Ultra-detailed assembly steps and video | [Expected: 2026.04.10] |
 | **ROS2 (Humble)** | 🚧 In Progress  | Core drivers have been completed, and MoveIt2 is currently being optimized | [Expected: 2026.04.10] |
-| **Python SDK** | 🚧 In Progress  |  | [Expected: 2026.04.10] |
+| **Python SDK** | Continuously optimized, PRs welcome | Universal motor library supporting multiple brands of joint motors | [motorbridge](https://github.com/tianrking/MotorBridge) |
 | **Pinocchio Integration** | 🚧 In Progress  | Adaptation to the Pinocchio framework, enabling forward/inverse kinematics and gravity compensation for the robotic arm | [Expected: 2026.04.10] |
 | **Isaac Sim Simulation** | 🚧 In Progress  | Import USD models and enable simulated teleoperation | [Expected: 2026.04.20] |
 | **LeRobot Integration** | 🚧 In Progress  | Adaptation to the Hugging Face LeRobot training framework | [Expected: 2026.04.30] |

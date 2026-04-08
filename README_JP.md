@@ -71,7 +71,7 @@
 | **実機性能テスト参考** | ✅ 完了  | 通常動作および限界動作におけるロボットアームの性能参考 |[Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing_JP.md) |
 | **組み立て動画** | 🚧 進行中 | 超詳細な組み立て手順と動画 | [予定：2026.04.10] |
 | **ROS2 (Humble)** | 🚧 進行中  | コアドライバはすでに完成しており、現在 MoveIt2 を最適化中です | [予定：2026.04.10] |
-| **Python SDK** | 🚧 進行中  |  | [予定：2026.04.10] |
+| **Python SDK** | 継続的な最適化、PR歓迎 | 複数ブランドの関節モーターに対応する汎用モーターライブラリ | [motorbridge](https://github.com/tianrking/MotorBridge) |
 | **Pinocchio 対応** | 🚧 進行中  | Pinocchio フレームワークへの対応を行い、ロボットアームの順運動学/逆運動学および重力補償機能を実現 | [予定：2026.04.10] |
 | **Isaac Sim シミュレーション** | 🚧 進行中  | USD モデルをインポートし、シミュレーションによる遠隔操作を実現 | [予定：2026.04.20] |
 | **LeRobot 対応** | 🚧 進行中  | Hugging Face LeRobot 学習フレームワークへの対応 | [予定：2026.04.30] |
